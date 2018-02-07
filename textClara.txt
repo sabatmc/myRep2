@@ -59,5 +59,14 @@ C
 D
 C
 C
+<<<<<<< HEAD
 hello
 >>>>>>> dd251c441edf237026daf9edb4bd650837c8295d
+=======
+hell
+hello clara its christian, how are you?
+D
+D
+C
+helloo
+>>>>>>> 092264294e8b014fcd9af36191dfed0cd8d236fe
