@@ -1,10 +1,75 @@
+<<<<<<< HEAD
+=======
+Bdd marhaba ya jame3a
+<<<<<<< HEAD
+gkugdsa:wqhello
+=======
+
+
+D
+B
+C
+D
+B
+C
+D
+A
+C
+D
+B
+C
+D
+A
+C
+D
+B
+C
+D
+A
+C
+D
+B
+C
+D
+A
+C
+D
+B
+C
+D
+A
+C
+D
+B
+D
+B
+C
+D
+B
+D
+B
+A
+C
+D
+B
+A
+C
+D
+B
+C
+>>>>>>> 82d458986bd5eb5de551fb397e4d356ae1e97cdd
 C
 D
 C
 C
+<<<<<<< HEAD
+hello
+>>>>>>> dd251c441edf237026daf9edb4bd650837c8295d
+=======
 hell
 hello clara its christian, how are you?
 D
 D
 C
 helloo
+>>>>>>> 092264294e8b014fcd9af36191dfed0cd8d236fe
