@@ -12,4 +12,5 @@ D
 D
 C
 helloo
->>>>>>> 092264294e8b014fcd9af36191dfed0cd8d236fe
+hello this is jerjy typing
+>>>>>>> 092264294e8b014fcd9af36191dfed0cd8d236fas
