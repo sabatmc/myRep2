@@ -25,4 +25,9 @@ D
 C
 helloo
 hello this is jerjy typing
->>>>>>> 092264294e8b014fcd9af36191dfed0cd8d236fas
+>>>>>>hello
+:wq
+A
+A
+A
+> 092264294e8b014fcd9af36191dfed0cd8d236fas
