@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Bdd marhaba ya jame3a
 <<<<<<< HEAD
@@ -63,6 +64,13 @@ D
 C
 C
 <<<<<<< HEAD
+=======
+Mighty:
+dd marhaba ya jame3oh a
+<<<<<<< HEAD
+gkugdsa:wqhello
+=======
+>>>>>>> f4182fe8bed49827ee86359e6c2b45fe4e2a8479
 hello
 >>>>>>> dd251c441edf237026daf9edb4bd650837c8295d
 =======
